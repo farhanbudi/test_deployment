@@ -9,7 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <p>Add new text to check deployment</p>
+        <p>this text for branch 1</p>
         <a
           className="App-link"
           href="https://reactjs.org"
@@ -21,7 +21,6 @@ function App() {
       </header>
     </div>
   );
-  ///aaaaaaa
 }
 
 export default App;
